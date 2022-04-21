@@ -3,7 +3,7 @@
 	"short_name": "Business",
 	"start_url": ".",
 	"display": "standalone",
-	"background_color": "#C62828",
+	"background_color": "black",
 	"description": "Business Web App Template",
 	"icons":[
 		{
